@@ -1,0 +1,106 @@
+Hi. I have created a prototype app for TensorFlow GUI.
+This App is purely written in python3 using pyqt5,keras,pydot and networkx.
+
+
+Now lets run this app.
+This app supports building of any multi input/output type of Neural Nets.
+
+Currently, Only training of single input/output model is possible.
+
+
+Here this is currently more customised to image data types. 
+
+Later It will be generalized to other types of data.
+
+
+
+Generally Images datasets are of 2 types:-
+1)Seperated in different folder by its class.
+2)In one folder with label file.
+
+
+And support for both types have been added.
+
+Label file type has bug which needs to be fixed.
+
+Now we will make Resnet style model for MNIST which is seperated by folder denoting its classes.
+
+
+Now we will choose Dataset Type.
+We will choose Input Folder where data is present.
+Enter input target dimension and batch size. 
+
+
+Then we will specify dimension of Input and corresponding sizes in each dimension.
+
+
+
+Then we will add couple of Conv,maxpool,Fully Connected,dropout,addition Layers with appropriate activation functions and connect them.
+
+
+
+The modifying properties of layers has not been implemented yet.
+
+
+Now we will specify training properties.
+we will select loss function and optimizer
+
+
+We will now compile the model.
+
+
+
+Then we can also see summary of the model by selecting ShowSummary.
+
+
+And we can also generate the model Graph.
+
+
+Lets also add Training properties.
+
+
+Now we will export the generated code. It currently exports it to file model_code.txt and terminal.
+
+
+
+Then we wait for training to finish.
+Feel free to skip ahead.
+
+
+
+Then we can visualize our result
+
+
+We can also save our model. 
+ 
+
+Lets see multi input and output model building by adding more layers.
+
+
+We will now compile the model.
+
+
+
+ShowSummary.
+
+
+Code
+
+
+Model Graph Generated.
+
+
+Lets close this application and load the model that we saved. 
+
+
+Currently, only backend of model loading has been implemented.
+
+
+And see the graph of it or train it.
+
+
+Support for more layers and activations, optimizer will be added later.
+
+
+
+Thank You

@@ -1,0 +1,9 @@
+Here we will see how to do prediction on sample images and visualize the results.
+
+
+First We will load the already made and pretrained model in this GUI.
+
+Next we will select image to predict.
+
+
+Here we can see all the 2D intermediate outputs of the sample during prediction.
