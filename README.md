@@ -10,3 +10,36 @@ This project requires keras as backend.
 ## Demo Videos Link
 https://drive.google.com/open?id=1uBsQPHkY-vimomJgVNvoAuVRLU_Pjv4b
 
+## Demo Images
+
+### Single Input and Single Output Resnet Style Block Implementation 
+
+* #### Model Design
+<img src="Prototype Demo Images/Screenshot from 2019-03-27 13-13-43.png" alt="hi" class="inline"/>
+
+* #### Keras Model Generated
+<img src="Prototype Demo Images/Screenshot from 2019-03-27 13-14-50.png" alt="hi" class="inline" height="500"/>
+
+* #### Training Visualization
+<img src="Prototype Demo Images/Screenshot from 2019-03-27 13-14-07.png" alt="hi" class="inline" height="300"/>
+
+
+* #### Sample Prediction
+<img src="Prototype Demo Images/Screenshot from 2019-04-05 15-14-14.png" alt="hi" class="inline" height="400"/>
+
+* #### Intermediate Layer Visualisation
+<img src="Prototype Demo Images/Screenshot from 2019-04-05 15-14-27.png" alt="hi" class="inline" height="100"/>
+<img src="Prototype Demo Images/Screenshot from 2019-04-05 15-14-39.png" alt="hi" class="inline" height="200"/>
+
+### Multi Input and Output Resnet Style Block Implementation
+
+* #### Model Design
+<img src="Prototype Demo Images/Screenshot from 2019-03-27 13-16-52.png" alt="hi" class="inline"/>
+
+* #### Code Generated
+<img src="Prototype Demo Images/Screenshot from 2019-03-27 13-17-03.png" alt="hi" class="inline"/>
+
+* #### Model Generated
+<img src="Prototype Demo Images/Screenshot from 2019-03-27 13-17-29.png" alt="hi" class="inline" height="500"/>
+
+
