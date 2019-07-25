@@ -7,11 +7,6 @@ This project requires keras as backend.
 * Basic Training process visualization.
 * Sample prediction with Model intermediate layers output visualization.
 
-## Demo
-<div class="video-container">
-    <iframe src="https://drive.google.com/open?id=1Oz0rMDdUKIvGFX2gMNr9XYi_pbPyfpk6" frameborder="0" allowfullscreen> 
-    </iframe>
-</div>
-<iframe width="560" height="315" src="https://drive.google.com/open?id=1Oz0rMDdUKIvGFX2gMNr9XYi_pbPyfpk6" frameborder="0"  allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+## Demo Videos Link
+https://drive.google.com/open?id=1uBsQPHkY-vimomJgVNvoAuVRLU_Pjv4b
 
-https://drive.google.com/open?id=1Oz0rMDdUKIvGFX2gMNr9XYi_pbPyfpk6
