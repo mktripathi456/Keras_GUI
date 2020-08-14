@@ -8,9 +8,6 @@ This project requires keras as backend for model building, training and inferenc
 * Basic Training process visualization.
 * Sample prediction with Model intermediate layers output visualization.(Currently Single Input and Output supported)
 
-## Demo Videos Link
-Please See Last and Second Last video.
-https://drive.google.com/open?id=1uBsQPHkY-vimomJgVNvoAuVRLU_Pjv4b
 
 ## Demo Images
 
